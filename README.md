@@ -47,4 +47,3 @@ Password: pavan@12345
 * <b>RTM (Requirement Traceability Matrix):</b> Capturing all requirements proposed by the client and requirement traceability in a single document
 
 * <b>Decision Table:</b> Technique used to test system behavior for different input combinations
-* 
